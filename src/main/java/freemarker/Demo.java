@@ -5,5 +5,9 @@ public class Demo {
 	private String name;
 	
 	private String hobby;
-
+	
+	private String sex;
+	
+	
+	
 }
